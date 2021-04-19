@@ -1,11 +1,10 @@
-# BookStand
+# Shoe Zone
 
-This project link: https://shop-no.web.app/
+This project link: 
 
 Features:
-1. User can buy book from here
+1. User can buy shoes from here
 2. They can see their order list
-3. Admin can add books to the store
-4. Admin also ken delete any book from the store
+3. Admin can add shoes
+4. Admin also can delete any product
 5. User have the login facilities
-# full-stack-client-AR-Raqeeb
