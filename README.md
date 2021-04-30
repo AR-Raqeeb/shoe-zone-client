@@ -1,6 +1,6 @@
 # Shoe Zone
 
-This project link: 
+Live link: https://shoe-zone-91d0a.web.app/ 
 
 Features:
 1. User can buy shoes from here
